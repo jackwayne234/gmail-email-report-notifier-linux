@@ -1,0 +1,9 @@
+Gmail_Email_Report.txt
+*.log
+.env
+.himalaya/
+*.token
+*credential*
+*secret*
+__pycache__/
+*.pyc
